@@ -26,5 +26,5 @@ Um cartão virtual interativo e poético, desenvolvido com HTML, CSS e JavaScrip
 ## 📝 **📦 Como Usar**
 
 1. Clone este repositório:
-   ```bash
+   https://github.com/Thaislima339/cartinha-postal.git
   
